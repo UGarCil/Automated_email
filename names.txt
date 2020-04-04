@@ -1,30 +1,3 @@
-o	Dr.	Samuel Campista León	samcl@uas.edu.mx	*
-o	Dr.	Hipólito Castillo Ureta	hipolito.cu@hotmail.com	*
-o	Dr.	Edith Hilario Torres Montoya	edy14@uas.edu.mx	*
-a	Dra.	Erika de Lourdes Silva Benítez	erikasilva@uas.edu.mx	*
-o	Dr.	Vicente Olimón Andalón	voauas@hotmail.com	*
-o	Dr.	Alberto Kousuke De la Herrán Arita	alberto.kousuke@uas.edu.mx	*
-a	Dra.	Carmen Lucia Moraila Martínez	cmorailam@uas.edu.mx	*
-a	Dra.	Elsa Maribel Aguilar Medina	maribelaguilar@uas.edu.mx	*
-a	Dra.	Luz Isela Peinado Guevara	luz_iselap@hotmail.com	*
-o	Dr.	Rosalío Ramos Payán	rosaliorp@uas.edu.mx	*
-o	Dr.	Rosalío Ramos Payán	rosaliorp@uas.edu.mx	*
-o	Dr.	José Geovanni Romero Quintana	geovanniromero@uas.edu.mx	*
-o	Dr.	Lorenzo Ulises Osuna Martínez	ulises.osuna@uas.edu.mx	*
-o	Dr.	Wenseslao Plata Rocha	wenses@uas.edu.mx	*
-a	M. C.	Elvira Martínez Salomón	dirinvestigacion@uais.edu.mx	*
-a	Dra.	Lizbeth Félix Miranda	lizbethfelix@uais.edu.mx	*
-a	Dra.	Idalia Osuna Ruiz	iosuna@upsin.edu.mx	*
-o	M.C.	José Sebastian Salazar Togo	jssalazar@upsin.edu.mx	*
-a	Dra.	Nidia Araiza Lizarde	naraiza@upsin.edu.mx	*
-a	Dra.	Claudia Amezcua Vega	camezcua@upsin.edu.mx	*
-o	Dr.	Enrique Jhonatan Romo Martinez	eromo@upsin.edu.mx	*
-a	Dra.	Noemi García Magallanes	ngarcia@upsin.edu.mx	*
-o	Dr.	Israel Benítez García	ibenitez@upsin.edu.mx	*
-a	M.C.	Jessica Vianey Montoya Aldecoa	jmontoya@upsin.edu.mx	*
-a	Dra.	Magdalena Elizabeth Bergés Tiznado	mberges@upsin.edu.mx	*
-a	Dra.	Carolina Guadalupe Delgado Alvarez	cdelgado@upsin.edu.mx	*
-o	Dr.	Arturo Alfonso Fernandez Jaramillo	afernandez@upsin.edu.mx	*
-o	M.C.	Juan Rodolfo Maestre Rendon	jmaestre@upsin.edu.mx	*
-o	Dr.	Víctor Manuel Salomón Soto	vsalomon@uas.edu.mx	*
-o	Dr.	Marcos Bucio Pacheco	ocelotl@uas.edu.mx	*
+email	name	folder_name	pref_name	status_message
+	Alex Kim	Alex_Kim	Alex	notsent_email_notfound_studentDIDNTSUBMIT
+user@gmail.com	Allison Spring	Allison_Spring	Allison	sent_confirmation
